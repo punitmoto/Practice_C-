@@ -47,6 +47,7 @@ public:
 };
 
 // Example usage
+/*
 int main() {
     LinkedList list;
     list.addElement(10);
@@ -55,3 +56,4 @@ int main() {
     list.display(); // Output: 10 -> 20 -> 30 -> null
     return 0;
 }
+    */
