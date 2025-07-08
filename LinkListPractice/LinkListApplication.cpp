@@ -67,6 +67,8 @@ public:
     }
 
     bool deleteDup() {
+
+        //Use unordered set or hash table to store the data and check if already data is present.
         if(head == nullptr) {
             std::cout<<"EMpty List" <<std::endl;
             return false;
